@@ -17,3 +17,11 @@ L'obiettivo è organizzare informazioni su manoscritti e testi storici attravers
 
 ## Autore
 Progetto realizzato per il corso di Tecnologie Web.
+
+## Esrcizio XPath
+
+l'espressione XPath per individuare tutti i luoghi presenti nel documento TEIè:
+
+`//*[local-name()='placeName']`
+
+Risultato atteso: Zacinto.

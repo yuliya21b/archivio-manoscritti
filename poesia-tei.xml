@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>A Zacinto</title>
+                <autore>
+                    <persName>Ugo Foscolo</persName>
+                </autore>
+            </titleStmt>
+            <publicationStmt>
+                <p>Esercitazione di Tecnologie Web</p>
+            </publicationStmt>
+            <sourceDesc>
+                <p>Ugo Foscolo, A Zacinto,
+                    <date when="1803">1803</date>
+                Fonte: Wikisource.</p>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <lg type="excerpt">
+                <l>Né piu mai toccherò le sacre sponde</l>
+                <l>Ove il mio corpo fanciulletto giacque,</l>
+                <l><placeName>Zacinto</placeName> mia, che te specchi nell'onde</l>
+            </lg>
+        </body>
+    </text>
+</TEI>

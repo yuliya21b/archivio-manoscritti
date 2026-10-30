@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<catalogue>
+    <manoscritto id="M001">
+        <titolo>Codice Leicester</titolo>
+        <autore>Leonardo da Vinci</autore>
+        <epoca>Rinascimento</epoca>
+    </manoscritto>
+    <manoscritto id="M002">
+        <titolo>Codice Atlantico</titolo>
+        <autore>Leonardo da Vinci</autore>
+        <epoca>Rinascimento</epoca>
+    </manoscritto>
+    <manoscritto id="M003">
+        <titolo>Manoscritto Voynich</titolo>
+        <autore>Sconosciuto</autore>
+        <epoca>XV secolo</epoca>
+    </manoscritto>
+</catalogue>

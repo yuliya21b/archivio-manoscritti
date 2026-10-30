@@ -1,0 +1,23 @@
+
+{
+  "catalogue":  [
+    {
+      "id": "M001",
+      "titolo": "Codice Leicester",
+      "autore": "Leonardo da Vinci",
+      "epoca": "Rinascimento"
+    },
+    {
+      "id": "M002",
+      "titolo": "Codice Atlantico",
+      "autore": "Leonardo da Vinci",
+      "epoca": "Rinascimento"
+    },
+    {
+      "id": "M003",
+      "titolo": "Manoscritto Voynich",
+      "autore": "Sconosciuto",
+      "epoca": "XV secolo"
+    }
+  ]
+}
